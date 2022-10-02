@@ -1,0 +1,1 @@
+enum GenderStatus { male, female }

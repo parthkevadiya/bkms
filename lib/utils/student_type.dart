@@ -1,0 +1,1 @@
+enum StudentType { commuter, away }
